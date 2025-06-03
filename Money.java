@@ -1,3 +1,4 @@
+//Liskov principle
 public abstract class Money 
 {
     int amount;
